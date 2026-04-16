@@ -1495,6 +1495,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
 * [Galichat.com](https://www.galichat.com/?ref=filipecalegario-awesome-generative-ai): AI Support Assistant that helps you grow your business.
 * [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+* [MindMap AI](https://mindmapai.app/text-summarizer) : AI-powered tool that converts text, PDFs, videos, and notes into structured visual mind maps for brainstorming, learning, and productivity.
 * [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 
 ### Dimension reduction techniques
